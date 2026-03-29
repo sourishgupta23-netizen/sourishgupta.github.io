@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sourish Gupta | Engineering Portfolio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Sourish Gupta</h1>
+<p>First Year Engineering Student</p>
+
+<h2>About Me</h2>
+<p>
+First year engineering student interested in electronics,
+signal processing and applied mathematics.
+</p>
+
+<h2>Skills</h2>
+<ul>
+<li>MATLAB</li>
+<li>Python</li>
+<li>C Programming</li>
+</ul>
+
+</body>
+</html>
